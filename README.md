@@ -1,2 +1,1 @@
-# malatang.html
-malatang around silpakorn
+# malatang around silpakorn
