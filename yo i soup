@@ -1,1 +1,145 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<title>Malatang around Silpakorn</title>
 
+<style>
+
+body{
+    background-color:#db5757ff;
+    text-align:center;
+    font-family: Arial, sans-serif;
+    color:white;
+}
+
+nav{
+    font-size:18px;
+    margin-top:10px;
+}
+
+img{
+    display:block;
+    margin:auto;
+    border:5px solid #d080fbff;
+    border-radius:10%;
+    padding:8px;
+    box-shadow:0 8px 18px rgba(255,196,239,0.9);
+}
+
+h1{
+    color:white;
+}
+
+h2{
+    color:#fff4f2;
+}
+
+
+.soup-container{
+    display:flex;
+    justify-content:center;
+    gap:60px;
+    margin-top:20px;
+}
+
+.soup-box{
+    background-color:rgba(255,255,255,0.2);
+    padding:20px;
+    border-radius:12px;
+    width:200px;
+}
+
+hr{
+    margin:30px;
+}
+
+</style>
+</head>
+
+<body>
+
+<nav>
+<a href="./m1.html">ก๋วยเตี๋ยวหมาล่า</a> |
+<a href="./m2.html">ฉงเม่า หมาล่าทั่ง</a> |
+<a href="./malatung.html">เต็มสิบ ชาบูชาม</a>
+</nav>
+
+<hr>
+
+<h1>ร้านหมาล่าทั่งรอบมหาวิทยาลัยศิลปากร</h1>
+
+<h2>โยอิซุป 🍜</h2>
+
+<p>
+เปิดบริการทุกวัน 11:00-02:00น.<br>
+ร้านหมาล่าทั่งในซอยชยาทิพย์<br>
+สามารถเลือกวัตถุดิบเองได้ มีเส้นหลากหลายเช่น บะหมี่,อูด้ง,เส้นมัน,บะหมี่หยก<br>
+ซุปหมาล่ามีหลายแบบให้เลือก น้ำจิ้มฟรี เติมน้ำจิ้มได้ไม่อั้น
+</p>
+
+<a href="https://www.facebook.com/profile.php?id=61581368946205" target="_blank">
+<img src="./yoi.png" width="250">
+</a>
+
+<hr>
+
+<h2 id="menu">วัตถุดิบในร้าน</h2>
+
+<img src="./yyoi.png" width="250">
+
+<hr>
+
+<h2>เมนูยอดนิยม</h2>
+
+<p>
+หมูสไลซ์,เนื้อสไลซ์🥓<br>
+เส้นบะหมี่,เส้นอูด้ง,เส้นมัน<br>
+ไส้เป็ด 🦆<br>
+อาหารทะเลเช่น กุ้งแก้ว<br>
+ผักบุ้ง,กะหล่ำซอย
+
+</p>
+
+<hr>
+
+<h2>น้ำซุป</h2>
+
+<div class="soup-container">
+
+<div class="soup-box">
+<h3>รูปน้ำซุป</h3>
+<img src="./menuyoii.png" width="185">
+
+</div>
+
+<div class="soup-box">
+<h3>ชื่อน้ำซุป</h3>
+ซุปหม่าล่า 🌶️<br>
+ซุปกระดูกหมู 🦴<br>
+ซุปน้ำดำ 🖤<br>
+ซุปน้ำดำผสมหม่าล่า 🌶️🖤<br>
+ซุปกระดูกหมูผสมหม่าล่า🌶️🦴<br>
+หม่าล่าผัดแห้ง 🔥🍜
+</div>
+
+</div>
+
+<hr>
+
+<h2>ราคาต่อขีด</h2>
+
+<blockquote>
+<em>ขีดละ 29 บาท 💰</em>
+</blockquote>
+
+<hr>
+
+<small>Malatang around Silpakorn &hearts;</small>
+
+<br><br>
+
+<a href="./menu.html">↑กลับไปหน้าแรก</a>
+
+</body>
+</html>
